@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - Columbia University, Dept. of Industrial Engineering and Operations Research, 2019 - 2021
   - MSc in Operations Research
 - Huazhong University of Science and Technology, Dept. of Physics
-- BSc in Physics
+  - BSc in Physics
 
 ### Research
