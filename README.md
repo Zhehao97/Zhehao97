@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a PhD candidate in Management Science and Engineering, Tsinghua University.
 - 🌱 I lies my interest on the intersection of statistical learning, optimization and causal inference. 
 - 🤔 I’m particular interested in developing methods and frameworks for problems in data-driven decision.
-- 📫 How to reach me: lizh21@mails.tsinghua.edu.cn
+- 📫 Reach me at lizh21@mails.tsinghua.edu.cn
 
 ### Education
-- Tsinghua University, School of Economics and Management, 2021 - Now 
-  - PhD in Management Science and Engineering
-- Columbia University, Dept. of Industrial Engineering and Operations Research, 2019 - 2021
-  - MSc in Operations Research
-- Huazhong University of Science and Technology, Dept. of Physics
-  - BSc in Physics
+- School of Economics and Management, Tsinghua University   (2021 - Now) 
+  - *PhD in Management Science and Engineering*
+- Department of IEOR, Columbia University   (2019 - 2021)
+  - *MSc in Operations Research*
+- Department of Physics, Huazhong University of Science and Technology    (2015 - 2019)
+  - *BSc in Physics*
 
 ### Research
