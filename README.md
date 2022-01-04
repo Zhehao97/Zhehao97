@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lizh21@mails.tsinghua.edu.cn
 
 ### Education
-- PhD in Management Science and Engineering, Tsinghua University
-- MSc in Operations Research, Columbia University
-- BSc in Physics, Huazhong University of Science and Technology
+- Tsinghua University, School of Economics and Management, 2021 - Now 
+  - PhD in Management Science and Engineering
+- Columbia University, Dept. of Industrial Engineering and Operations Research, 2019 - 2021
+  - MSc in Operations Research
+- Huazhong University of Science and Technology, Dept. of Physics
+- BSc in Physics
 
 ### Research
