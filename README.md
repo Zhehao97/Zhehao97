@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 📫 Reach me at lizh21@mails.tsinghua.edu.cn
 
 ### Education
-- School of Economics and Management, Tsinghua University   (2021 - Now) 
-  - *PhD in Management Science and Engineering*
-- Department of IEOR, Columbia University   (2019 - 2021)
-  - *MSc in Operations Research*
-- Department of Physics, Huazhong University of Science and Technology    (2015 - 2019)
-  - *BSc in Physics*
+- 2021 - Now, PhD, Department of Management Science and Engineering, Tsinghua University
+- 2019 - 2021, MSc, Department of Industrial Engineering and Operations Research, Columbia University
+- 2015 - 2019, BSc, Department of Physics, Huazhong University of Science and Technology
 
 ### Research
