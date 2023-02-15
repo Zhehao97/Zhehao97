@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🔭 I’m currently a PhD student in Management Science and Engineering, Tsinghua University.
-- 🌱 I lies my interest on the intersection of machine learning, causal inference and microeconomics. 
+- 🌱 I lies my interest on the intersection of machine learning, causal inference, optimization and game theory/mechanism design. 
 - 🤔 I’m particular interested in developing causal-driven prediction and decision frameworks.
 - 📫 Reach me at lizh21@mails.tsinghua.edu.cn
 
