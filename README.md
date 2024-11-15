@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🔭 I’m currently a PhD student in Management Science and Engineering, Tsinghua University.
-- 🤔 I lies my interest on the intersection of learning theory, causal inference and robsut optimization. 
+- 🤔 I lies my interest on the intersection of learning theory, causal inference and robust optimization. 
 - 📫 Reach me at lizh21@mails.tsinghua.edu.cn
 
 ### Education
